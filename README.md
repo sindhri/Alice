@@ -7,7 +7,7 @@ data source: http://www.gutenberg.org/cache/epub/11/pg11.txt
 ## Preprocess
 1. convert all text to lower case
 2. convert characters to integers
-<img src = "https://github.com/sindhri/Alice/blob/master/doc/img1.png" width = "300">
+<img src = "https://github.com/sindhri/Alice/blob/master/doc/img1.png" width = "800">
 3. set up sequences of consecutive 100 characters for training
 4. reshape
 5. normalize
@@ -47,13 +47,15 @@ Done."
 Pretty nonsense but interesting.
 
 ## 4. Use Alice_large to generate 1000 characters
-Only had time to run 14 iterations.
+Only had time to run 14 iterations.  
 Seed:
 " herself very good advice, (though she very seldom followed it),
-and sometimes she scolded herself so "
+and sometimes she scolded herself so "  
+
 Output:
 "herself in a little boot and she had gooe of the soof, and she had not a little gooden sure the court, and she semembered the court, and she serser the had not a little gooden sure, and she shought it was a little boot and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she 
-Done."
+Done."  
+
 Since it was only trained slightly, it has a lot of repetitions. 
 
 # Conclusion: small network that was able to complete more iteration performs better!
