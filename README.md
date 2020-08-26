@@ -1,6 +1,6 @@
 # Alice in wonderland text generation
 Generate text based on the codependencies between characters
-Use the previous 100 characters to predict the next character.
+Use the previous 100 characters to predict the next character.  
 Credit: Deep Learning with Python by Jason Brownlee
 data source: http://www.gutenberg.org/cache/epub/11/pg11.txt
 
