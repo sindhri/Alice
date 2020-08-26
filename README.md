@@ -47,18 +47,18 @@ Done."
 Pretty nonsense but interesting.
 
 ## 4. Use Alice_large to generate 1000 characters
-Only had time to run 14 iterations.  
+50 iterations took about 36 hours to run!
 Seed:
-" herself very good advice, (though she very seldom followed it),
-and sometimes she scolded herself so "  
+" s piece of rudeness was more than alice could bear: she got up in
+great disgust, and walked off; the "
 
 Output:
-"herself in a little boot and she had gooe of the soof, and she had not a little gooden sure the court, and she semembered the court, and she serser the had not a little gooden sure, and she shought it was a little boot and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she had not a little boot and she had not a little boot and she had not and she had not a little boot and she 
-Done."  
+"fatter was in the doom and fooder all the way the had been to the soom of the had she was a little shater whre her head so her head so her on the soom of the way the had been anything that she had not the white rabbit was a little shane of the hall, but she was not a moment the was off at hard as she could, for the was not a little shan was off, and the had been for a moment that she had not the white rabbit was a little shane of the had pawser as hard as the could, for the was now a moment the was all the window, but she was not a moment the roor little thing was not a minute or two the had been anything that she had not the white rabbit was a little shanp with his head. 'i must be a dootu and growne, it was oot and see thatchte it to tell you a babk, the dould not a babk, the dorldn't all the way the had she was a little shated off all the middle, blice had not a very curious to see it said to his her hn the world her a head sook of the court of the way that she was now a little sha
+Done. "  
 
-Since it was only trained slightly, it has a lot of repetitions. 
+It had some repititions but there were a lot more real words and even sentences! 
 
-# Conclusion: small network that was able to complete more iteration performs better!
+# Conclusion: large network creates a better story!
 
 # Ways to improve:
 * Predict less than 1000 words
